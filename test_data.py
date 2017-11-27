@@ -10,8 +10,6 @@ test_y_real = 0.0004 * test_x_real ** 4
 test_x_train = np.array([-3, -2.3, -1.7, -1.24, 0.1, 0.7, 1.3, 2.1, 3.4])
 test_y_train = func(test_x_train)
 
-print(test_y_train)
-
 # print(test_y_train)
 
 # train_x_1 = np.array([-1.24, 0.1, 1.3, 2, 3.4])
